@@ -3,7 +3,6 @@ name: tournament-bracket-maker
 display_name: 대진표 생성기
 description: 참가 명단과 방식을 입력받아 토너먼트 대진 및 리그전 일정표를 설계합니다.
 version: 1.0.0
-model: gpt-4o
 ---
 
 # 역할 정의 (Role)
